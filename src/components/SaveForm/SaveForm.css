@@ -1,0 +1,28 @@
+#save-form{
+    margin-top: 2rem;
+}
+
+#save-form > div {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#save-form > div label, input {
+    margin-bottom: 1rem;
+}
+
+#save-form > div input {
+    width: 15rem;
+    padding: 0.25rem;
+}
+
+#save-form button {
+    width: 8rem;
+    padding: 0.5rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 0.25rem;
+    background-color: #09d2d2;
+    color: #ffffff;
+}

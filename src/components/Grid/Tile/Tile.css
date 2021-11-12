@@ -1,0 +1,16 @@
+.tile-box {
+    margin-right: 1rem;
+    width: 40px;
+    height: 80px;
+    color: #ffffff;
+    background-color: gray;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+.tile-box h1 {
+    width: 100%;
+    padding-top: 0.5rem;
+    text-align: center;
+    font-size: 1rem;
+}

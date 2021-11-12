@@ -1,0 +1,33 @@
+.inputform-layout {
+    width: 100%;
+}
+
+.formgroup-wrapper {
+    width: 90%;
+    display: flex;
+    margin-bottom: 1.5rem;
+}
+.formgroup {
+    display: flex;
+    flex-direction: column;
+    margin-right: 3.5rem;
+}
+
+.formgroup > label {
+    margin-bottom: 1rem;
+}
+
+.formgroup input[type="text"] {
+    width: 15rem;
+    padding: 0.25rem;
+}
+
+.btn {
+    width: 8rem;
+    padding: 0.5rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 0.25rem;
+    background-color: blue;
+    color: #ffffff;
+}

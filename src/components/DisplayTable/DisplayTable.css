@@ -1,0 +1,24 @@
+.table-wrapper {
+    border-top: 1px solid black;
+    background-color: #f1f1f1;
+}
+
+#table {
+    width: 100%;
+    
+}
+
+#table thead tr th, #table tbody tr td {
+    padding: 0.5rem;
+    text-align: left;
+    border: 1px solid black;
+}
+
+.positions {
+    width: 60%;
+}
+
+.color-col {
+    width: 40px;
+    height: 20px;
+}
