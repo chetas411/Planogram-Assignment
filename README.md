@@ -1,3 +1,4 @@
+### Deployed Link https://boring-ride-2dc327.netlify.app/
 # Steps to run the app locally
 1. Clone the git repo to your system <br>
 `git clone https://github.com/chetas411/Planogram-Assignment.git` <br>
